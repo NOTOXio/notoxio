@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there my Name is Ivo👋
+
+- 🌱 I’m currently studying Computer Science in my practical studies at SICK AG.
 
 <!--
 **NOTOXio/notoxio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
