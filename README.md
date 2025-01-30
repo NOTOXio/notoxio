@@ -1,4 +1,4 @@
-# 🧑🏼‍💻 Sunaa Risu
+# 🧑🏼‍💻 NOTOXio
 
 **`Practical Student`**
 
